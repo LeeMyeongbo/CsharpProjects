@@ -1,0 +1,11 @@
+
+# 폴더 제외
+bin/
+obj/
+.vs/
+
+# 확장자 제외
+*.exe
+*.sln
+*.csproj
+*.user
